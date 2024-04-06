@@ -1,1 +1,1 @@
-# code_practice
+this is coding practice repo
